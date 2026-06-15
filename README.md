@@ -1,8 +1,8 @@
-# GetSEO Pro for Claude Code
+# getseo.pro for Claude Code
 
 Free AI-powered SEO toolkit that brings professional-grade search optimization directly into Claude Code. Audit pages, generate schema markup, cluster keywords, and optimize content — all without leaving your editor.
 
-Made by [GetSEO Pro](https://getseo.pro)
+Made by [getseo.pro](https://getseo.pro)
 
 ## Install
 
@@ -60,7 +60,7 @@ Skills activate automatically when you ask naturally:
 
 ## About
 
-[GetSEO Pro](https://getseo.pro) is an SEO analysis platform for developers and marketers. This Claude Code plugin brings the same analysis capabilities directly into your development workflow.
+[getseo.pro](https://getseo.pro) is an SEO analysis platform for developers and marketers. This Claude Code plugin brings the same analysis capabilities directly into your development workflow.
 
 - Website: [getseo.pro](https://getseo.pro)
 - Issues: [github.com/getseohq/claude-code-plugin/issues](https://github.com/getseohq/claude-code-plugin/issues)

@@ -35,7 +35,7 @@ Score each category 0–100, then produce a weighted overall score:
 ```
 # SEO Audit Report: [domain]
 Date: [today]
-Audited by: GetSEO Pro for Claude Code
+Audited by: getseo.pro for Claude Code
 
 ## Executive Summary
 [2–3 sentences: overall health, biggest opportunity, most critical issue]

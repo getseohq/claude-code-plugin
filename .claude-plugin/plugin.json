@@ -1,10 +1,10 @@
 {
   "name": "getseo",
-  "displayName": "GetSEO Pro",
+  "displayName": "getseo.pro",
   "version": "1.0.0",
   "description": "Free SEO toolkit for Claude Code — audit pages, generate schema markup, cluster keywords, and optimize content directly in your editor.",
   "author": {
-    "name": "GetSEO Pro",
+    "name": "getseo.pro",
     "url": "https://getseo.pro"
   },
   "homepage": "https://getseo.pro",
